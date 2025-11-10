@@ -1,11 +1,14 @@
 
 Um pequeno tutorial de transformers usando exemplos.
 
+![Transformer](imagens/readme_poloclub.jpeg)
+
 # Objetivos
 - Ter um material com exemplos simples facilmente expansivel para problemas reais.
 
 # Links
 
+- (2025) Transformer visualmente: https://poloclub.github.io/transformer-explainer/
 - Aprendendo Pytorch: https://www.kaggle.com/code/tauseef6462/simple-feedforward-neural-network-using-pytorch
 - Fazendo um Bert do zero: https://medium.com/data-and-beyond/complete-guide-to-building-bert-model-from-sratch-3e6562228891
 - Why multi-head self attention works: math, intuitions and 10+1 hidden insights: https://theaisummer.com/self-attention/
